@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kunal Sharma
 
 <!--
 **SharK-020/SharK-020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 -🌱 I’m currently learning App Development in Flutter
+<img src="https://github-readme-stats.vercel.app/api?username=SharK-020&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
