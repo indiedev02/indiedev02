@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">A Student and A Tech Enthusiast</h3>
+<h3 align="center">A Student and a Tech Enthusiast</h3>
 # 💫 About Me:<br>
 
 - 🌱 I’m currently learning **App Development in Flutter**
