@@ -2,9 +2,9 @@
 <h3 align="center">A Student and a Tech Enthusiast</h3>
 # 💫 About Me:<br>
 
-- 🌱 I’m currently learning **App Development in Flutter**
+- 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about **C++, Flutter, Python**
+- 💬 Ask me about **C++, React, Python, Javascript, NodeJs, Express, Mongodb**
 
 - 📫 How to reach me **kunal1.kaushik1@gmail.com**
 <!--
