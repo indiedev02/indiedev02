@@ -2,7 +2,7 @@
 <h3 align="center">A Student and a Tech Enthusiast</h3>
 # 💫 About Me:<br>
 
-- 🌱 I’m currently learning **Web dev**
+- 🌱 I’m a full stack **Web devloper**
 
 - 💬 Ask me about **C++, React, Python, Javascript, NodeJs, Express, Mongodb**
 
