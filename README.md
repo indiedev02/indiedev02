@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">A Student and a Tech Enthusiast</h3>
+<h3 align="center">A Tech Enthusiast</h3>
 # 💫 About Me:<br>
 
 - 🌱 I’m a full stack **Web devloper**
 
-- 💬 Ask me about **C++, React, Python, Javascript, NodeJs, Express, Mongodb**
+- 💬 Ask me about **C++, React, Python, Javascript, NodeJs, Express, Mongodb, SQL**
 
 - 📫 How to reach me **kunal1.kaushik1@gmail.com**
 <!--
