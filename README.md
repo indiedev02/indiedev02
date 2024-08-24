@@ -20,7 +20,7 @@ With a passion for building scalable web applications and a keen interest in exp
 ## 🌐 Connect with Me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kunal-sharma123"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/kunal021"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/__kunal_S"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
